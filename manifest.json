@@ -1,11 +1,11 @@
 {
-  "version_code": 10302,
-  "version_name": "1.3.2-kotlin",
-  "apk_url": "https://github.com/belinzenewtone/LIFEOS-RELEASES/releases/download/v1.3.2-kotlin/lifeos-1.3.2-kotlin.apk",
-  "apk_sha256": "8f89566c204bf4c6d349234b56d6885e24a418efb9ec37a74561ed37c9c586a4",
-  "size_bytes": 3890015,
+  "version_code": 10303,
+  "version_name": "1.3.3-kotlin",
+  "apk_url": "https://github.com/belinzenewtone/LIFEOS-RELEASES/releases/download/v1.3.3-kotlin/lifeos-1.3.3-kotlin.apk",
+  "apk_sha256": "e1d9a10791100545a650f610e34b516396c77ba8b14846315d78967eff408c3d",
+  "size_bytes": 3922783,
   "application_id": "com.lifeos.lifeos.ota",
   "mandatory": false,
-  "title": "Update to 1.3.2-kotlin",
-  "changelog": "Fixes updates: this version can check for and install future updates again. Also everything from 1.3.1: new navigation, Export form, charts, back swipe preview and a smoother Insights page."
+  "title": "Update to 1.3.3-kotlin",
+  "changelog": "Smarter message reading. The app now re-reads your saved messages once, in the background, so existing transactions are corrected: Fuliza-funded payments are marked, declined card attempts and Fuliza repayments no longer count as spending, transfers between your own accounts are recognised, and hotels, eateries and other merchants land in the right category. A banner tells you what changed and offers Undo. Updates now pop up when you open the app, with Update now or Later. Totals for a person or merchant, and a longer merchant list."
 }
