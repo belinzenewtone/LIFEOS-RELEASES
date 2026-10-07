@@ -7,5 +7,5 @@
   "application_id": "com.lifeos.lifeos.ota",
   "mandatory": false,
   "title": "Update to 0.1.0",
-  "changelog": ""
+  "changelog": "A rebuilt LifeOS, in the same place you left it. Your messages are read again and your transactions rebuilt from them, so the ledger matches the inbox: Fuliza-funded payments are marked, declined attempts and Fuliza repayments no longer count as spending, and transfers between your own accounts are recognised. Background import is calmer too: one notice a day at most, and the morning summary only when you have switched it on and set a time."
 }
