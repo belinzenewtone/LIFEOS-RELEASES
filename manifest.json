@@ -1,11 +1,11 @@
 {
-  "version_code": 20100,
-  "version_name": "0.1.0",
-  "apk_url": "https://github.com/belinzenewtone/LIFEOS-RELEASES/releases/download/v0.1.0-rn/lifeos-0.1.0.apk",
-  "apk_sha256": "ed518f8445fa8e54c8cbd176d23fc212d1fd7a11760ce5c775139a1d3eab1e8f",
-  "size_bytes": 52126671,
+  "version_code": 20101,
+  "version_name": "0.1.1",
+  "apk_url": "https://github.com/belinzenewtone/LIFEOS-RELEASES/releases/download/v0.1.1-rn/lifeos-0.1.1.apk",
+  "apk_sha256": "bd38b15fbcf3344a109a2e04c18825a1494d773738474fab6844302bdea3936a",
+  "size_bytes": 52172793,
   "application_id": "com.lifeos.lifeos.ota",
   "mandatory": false,
-  "title": "Update to 0.1.0",
-  "changelog": "A rebuilt LifeOS, in the same place you left it. Your messages are read again and your transactions rebuilt from them, so the ledger matches the inbox: Fuliza-funded payments are marked, declined attempts and Fuliza repayments no longer count as spending, and transfers between your own accounts are recognised. Background import is calmer too: one notice a day at most, and the morning summary only when you have switched it on and set a time."
+  "title": "Update to 0.1.1",
+  "changelog": "Starts cleanly. The app opens straight into its dark theme instead of flashing a white screen first \u2014 the launch window was still Expo's default white.\n\nEverything from 0.1.0 is in here too: the lighter ledger (six months, not ten years), lists that recycle rows so scrolling stays smooth, screens that keep their shape while loading instead of showing a blank page, and the fix that stopped every cold start landing on the intro."
 }
